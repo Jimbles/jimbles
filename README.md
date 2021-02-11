@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+This is my profile for both professional and unprofessional things.
+
+---
+Here is a stupid joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **Jimbles/jimbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Markdown -->
+
